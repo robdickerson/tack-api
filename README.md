@@ -1,0 +1,1 @@
+API for exchanging simple messages and monitoring state.
